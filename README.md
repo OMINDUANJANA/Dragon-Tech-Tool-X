@@ -11,7 +11,7 @@ Open the terminal and type following commands.
 
 * `apt install git`
 
-* `git clone https://github.com/hackersblackhatlk/Tool-X.git`
+* `git clone https://github.com/hackersblackhatlk/Dragon-Tech-Tool-X.git`
 
 * `cd Tool-X`
 
