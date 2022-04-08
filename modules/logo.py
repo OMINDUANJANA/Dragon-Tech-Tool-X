@@ -113,6 +113,20 @@ class logo:
 {yellow} [+] {green}Made for termux and linux based system.
 {red} [+] Note :- Use this tool at your own risk.''')
     self.tool_footer()
+    
+    @classmethod
+  def images(self,total):
+    self.tool_header()
+    print (f'''
+{yellow} [1] Omindu  :- {green} Team Captain.and Programmer\033[1;31m
+{yellow} [2] Kavidu  :- {green} Whatsapp,Fb Modder.\033[1;m
+{yellow} [3] Rasanja :- {green} Helpers\033[1;m
+{yellow} [4] Yasith  :- {green} Helpers.\033[1;m
+{yellow} [5] Damith  :- {green} Helpers.\033[1;m
+{yellow} [+] {green} {font=iskolepota}අපි තමයි හොදටම කරේ.\033[1;34m
+{yellow} [+] {green}Made for termux and linux based system.
+{red}    :- .\033[1;m''')
+    self.tool_footer()
 
 
   @classmethod
