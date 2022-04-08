@@ -174,6 +174,7 @@ class logo:
 {yellow}  [ 2 ] {green}Tools Category.
 {yellow}  [ 3 ] {green}Update Tool-X.
 {yellow}  [ 4 ] {green}About Us.
+{yellow}  [ 5 ] {green}images.
 {yellow}  [ x ] {green}For Exit.''')
     self.tool_footer()
 
